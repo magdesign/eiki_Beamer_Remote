@@ -12,5 +12,11 @@ for power off:
 `beamer_on_off.sh --off`
 
 
+
+
+
+
+
+
 Thanks to Marco Schmalz for coding that script
 ©2015
