@@ -1,5 +1,5 @@
 # eiki_Beamer_Remote
-With this script you can power on/off an EIKI LC-XT Projector over the network.
+With this script you can power on/off an Sanyo/Christie/EIKI LC-XT Projector over the network.
 
 
 Change the `IP=` to the ip of your projector.
